@@ -1,0 +1,424 @@
+2018-07-07 21:07:860 INFO  TestBase:135 - Initialize Web driver: 1894788146
+2018-07-07 21:07:123 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-07 21:07:124 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2018-07-07 21:07:318 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2018-07-07 21:07:326 INFO  WaitHelper:146 - page is loaded
+2018-07-07 21:07:138 INFO  TestBase:76 - **************testRegistrationStarted***************
+2018-07-07 21:07:592 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-07 21:07:260 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (c63ebfcdf1134dbeedb796c7380e9851)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2018-07-07 21:07:556 INFO  WaitHelper:159 - element is visible now
+2018-07-07 21:07:558 INFO  TestBase:168 - capturing ui navigation screen...
+2018-07-07 21:07:651 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-07 21:07:638 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-07 21:07:09 INFO  LoginPage:69 - clicked on sign in link...
+2018-07-07 21:07:668 INFO  LoginPage:102 - entering registration email..1530978735667@gmail.com
+2018-07-07 21:07:238 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-07 21:07:276 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (c63ebfcdf1134dbeedb796c7380e9851)] -> xpath: //*[@id='id_gender1']] for :200 seconds
+2018-07-07 21:07:694 INFO  WaitHelper:159 - element is visible now
+2018-07-07 21:07:696 INFO  TestBase:168 - capturing ui navigation screen...
+2018-07-07 21:07:697 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-07 21:07:967 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-07 21:07:266 INFO  RegistrationPage:105 - selecting mr checkbox..
+2018-07-07 21:07:720 INFO  RegistrationPage:117 - entering firstName..firstName
+2018-07-07 21:07:447 INFO  RegistrationPage:123 - entering lastname..lastname
+2018-07-07 21:07:253 INFO  RegistrationPage:135 - entering password..password
+2018-07-07 21:07:108 INFO  RegistrationPage:203 - entering address..address
+2018-07-07 21:07:516 INFO  RegistrationPage:185 - entering yourAddressFirstName..yourAddressFirstName
+2018-07-07 21:07:70 INFO  RegistrationPage:191 - entering yourAddressLastName..yourAddressLastName
+2018-07-07 21:07:250 INFO  RegistrationPage:197 - entering yourAddressCompany..yourAddressCompany
+2018-07-07 21:07:414 INFO  RegistrationPage:215 - entering yourAddressCity..yourAddressCity
+2018-07-07 21:07:565 INFO  RegistrationPage:221 - entering yourAddressState..Alaska
+2018-07-07 21:07:687 INFO  RegistrationPage:227 - entering yourAddressPostCode..99501
+2018-07-07 21:07:362 INFO  RegistrationPage:245 - entering mobilePhone..9999999999
+2018-07-07 21:07:324 INFO  RegistrationPage:251 - entering addressAlias..addressAlias
+2018-07-07 21:07:378 INFO  RegistrationPage:257 - clicked on registration..[[ChromeDriver: chrome on XP (c63ebfcdf1134dbeedb796c7380e9851)] -> xpath: //*[@id='submitAccount']]
+2018-07-07 21:07:54 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-07 21:07:296 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (c63ebfcdf1134dbeedb796c7380e9851)] -> xpath: //*[contains(text(),'Order history and details')]] for :200 seconds
+2018-07-07 21:07:542 INFO  WaitHelper:159 - element is visible now
+2018-07-07 21:07:544 INFO  TestBase:168 - capturing ui navigation screen...
+2018-07-07 21:07:545 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-07 21:07:135 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-07 21:07:989 INFO  VerificationHelper:26 - element is Displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2018-07-07 21:07:258 INFO  TestBase:94 - **************testRegistrationFinished***************
+2018-07-08 12:07:952 INFO  TestBase:136 - Initialize Web driver: 1894788146
+2018-07-08 12:07:24 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-08 12:07:28 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2018-07-08 12:07:117 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2018-07-08 12:07:142 INFO  WaitHelper:146 - page is loaded
+2018-07-08 12:07:16 INFO  TestBase:77 - **************testRegistrationStarted***************
+2018-07-08 13:07:859 INFO  TestBase:137 - Initialize Web driver: 1094523823
+2018-07-08 13:07:577 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-08 13:07:580 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2018-07-08 13:07:647 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2018-07-08 13:07:661 INFO  WaitHelper:146 - page is loaded
+2018-07-08 13:07:475 INFO  TestBase:77 - **************testLoginToApplicationStarted***************
+2018-07-08 13:07:912 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-08 13:07:860 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (290d5c91e9a856402863721d600e324d)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2018-07-08 13:07:380 INFO  WaitHelper:159 - element is visible now
+2018-07-08 13:07:381 INFO  TestBase:170 - capturing ui navigation screen...
+2018-07-08 13:07:386 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-08 13:07:852 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-08 13:07:266 INFO  LoginPage:69 - clicked on sign in link...
+2018-07-08 13:07:209 INFO  LoginPage:75 - entering email address....1529686406836@gmail.com
+2018-07-08 13:07:825 INFO  LoginPage:81 - entering password....password
+2018-07-08 13:07:681 INFO  LoginPage:87 - clicking on submit button...
+2018-07-08 13:07:686 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-08 13:07:688 INFO  JavaScriptHelper:88 - scrolling down vertically...
+2018-07-08 13:07:648 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-08 13:07:787 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (290d5c91e9a856402863721d600e324d)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2018-07-08 13:07:05 INFO  WaitHelper:159 - element is visible now
+2018-07-08 13:07:07 INFO  TestBase:170 - capturing ui navigation screen...
+2018-07-08 13:07:08 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-08 13:07:122 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-08 13:07:53 INFO  VerificationHelper:26 - element is Displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2018-07-08 13:07:201 INFO  TestBase:95 - **************testLoginToApplicationFinished***************
+2018-07-08 13:07:518 INFO  TestBase:137 - Initialize Web driver: 1021258849
+2018-07-08 13:07:520 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-08 13:07:520 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2018-07-08 13:07:537 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2018-07-08 13:07:545 INFO  WaitHelper:146 - page is loaded
+2018-07-08 13:07:868 INFO  TestBase:77 - **************testRegistrationStarted***************
+2018-07-08 13:07:414 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-08 13:07:514 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (a581a4b8ea19ba169d30987ba0a9451d)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2018-07-08 13:07:640 INFO  WaitHelper:159 - element is visible now
+2018-07-08 13:07:641 INFO  TestBase:170 - capturing ui navigation screen...
+2018-07-08 13:07:642 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-08 13:07:79 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-08 13:07:308 INFO  LoginPage:69 - clicked on sign in link...
+2018-07-08 13:07:852 INFO  LoginPage:102 - entering registration email..1531035217852@gmail.com
+2018-07-08 13:07:803 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-08 13:07:385 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (a581a4b8ea19ba169d30987ba0a9451d)] -> xpath: //*[@id='id_gender1']] for :200 seconds
+2018-07-08 13:07:326 INFO  WaitHelper:159 - element is visible now
+2018-07-08 13:07:327 INFO  TestBase:170 - capturing ui navigation screen...
+2018-07-08 13:07:328 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-08 13:07:329 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-08 13:07:637 INFO  RegistrationPage:105 - selecting mr checkbox..
+2018-07-08 13:07:110 INFO  RegistrationPage:117 - entering firstName..firstName
+2018-07-08 13:07:96 INFO  RegistrationPage:123 - entering lastname..lastname
+2018-07-08 13:07:976 INFO  RegistrationPage:135 - entering password..password
+2018-07-08 13:07:912 INFO  RegistrationPage:203 - entering address..address
+2018-07-08 13:07:266 INFO  RegistrationPage:185 - entering yourAddressFirstName..yourAddressFirstName
+2018-07-08 13:07:85 INFO  RegistrationPage:191 - entering yourAddressLastName..yourAddressLastName
+2018-07-08 13:07:52 INFO  RegistrationPage:197 - entering yourAddressCompany..yourAddressCompany
+2018-07-08 13:07:563 INFO  RegistrationPage:215 - entering yourAddressCity..yourAddressCity
+2018-07-08 13:07:02 INFO  RegistrationPage:221 - entering yourAddressState..Alaska
+2018-07-08 13:07:902 INFO  RegistrationPage:227 - entering yourAddressPostCode..99501
+2018-07-08 13:07:742 INFO  RegistrationPage:245 - entering mobilePhone..9999999999
+2018-07-08 13:07:953 INFO  RegistrationPage:251 - entering addressAlias..addressAlias
+2018-07-08 13:07:74 INFO  RegistrationPage:257 - clicked on registration..[[ChromeDriver: chrome on XP (a581a4b8ea19ba169d30987ba0a9451d)] -> xpath: //*[@id='submitAccount']]
+2018-07-08 13:07:953 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-08 13:07:95 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (a581a4b8ea19ba169d30987ba0a9451d)] -> xpath: //*[contains(text(),'Order history and details')]] for :200 seconds
+2018-07-08 13:07:218 INFO  WaitHelper:159 - element is visible now
+2018-07-08 13:07:219 INFO  TestBase:170 - capturing ui navigation screen...
+2018-07-08 13:07:222 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-08 13:07:983 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-08 13:07:533 INFO  VerificationHelper:26 - element is Displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2018-07-08 13:07:608 INFO  TestBase:95 - **************testRegistrationFinished***************
+2018-07-08 13:07:580 INFO  TestBase:137 - Initialize Web driver: 1477637771
+2018-07-08 13:07:581 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-08 13:07:581 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2018-07-08 13:07:594 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2018-07-08 13:07:602 INFO  WaitHelper:146 - page is loaded
+2018-07-08 13:07:224 INFO  TestBase:77 - **************verifyLowestFirstPriceListInProduct_deatilsPageStarted***************
+2018-07-08 13:07:727 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-08 13:07:876 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (d3db96c47dff8b3f5ffa0259d7b94f2a)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2018-07-08 13:07:138 INFO  WaitHelper:159 - element is visible now
+2018-07-08 13:07:140 INFO  TestBase:170 - capturing ui navigation screen...
+2018-07-08 13:07:141 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-08 13:07:299 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-08 13:07:102 INFO  NavigationMenu:61 - clickin on : WOMEN
+2018-07-08 13:07:895 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-08 13:07:158 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (d3db96c47dff8b3f5ffa0259d7b94f2a)] -> xpath: //*[@id='layered_block_left']/p] for :200 seconds
+2018-07-08 13:07:367 INFO  WaitHelper:159 - element is visible now
+2018-07-08 13:07:369 INFO  TestBase:170 - capturing ui navigation screen...
+2018-07-08 13:07:370 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-08 13:07:895 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-08 13:07:319 INFO  DropDownHelper:25 - DropDownHelper object created..
+2018-07-08 13:07:572 INFO  DropDownHelper:42 - selectUsingVisibleText and visibleText is: Price: Lowest first
+2018-07-08 13:07:722 INFO  ProductCategoryPage:168 - 16.40
+2018-07-08 13:07:987 INFO  ProductCategoryPage:168 - 16.51
+2018-07-08 13:07:132 INFO  ProductCategoryPage:168 - 26.00
+2018-07-08 13:07:263 INFO  ProductCategoryPage:168 - 27.00
+2018-07-08 13:07:516 INFO  ProductCategoryPage:168 - 28.98
+2018-07-08 13:07:779 INFO  ProductCategoryPage:168 - 30.50
+2018-07-08 13:07:31 INFO  ProductCategoryPage:168 - 50.99
+2018-07-08 13:07:32 INFO  ProductCategoryPage:152 - obj.get(i)..16
+2018-07-08 13:07:34 INFO  ProductCategoryPage:153 - obj.get(i+1)..16
+2018-07-08 13:07:35 INFO  ProductCategoryPage:152 - obj.get(i)..16
+2018-07-08 13:07:35 INFO  ProductCategoryPage:153 - obj.get(i+1)..26
+2018-07-08 13:07:37 INFO  ProductCategoryPage:152 - obj.get(i)..26
+2018-07-08 13:07:38 INFO  ProductCategoryPage:153 - obj.get(i+1)..27
+2018-07-08 13:07:38 INFO  ProductCategoryPage:152 - obj.get(i)..27
+2018-07-08 13:07:42 INFO  ProductCategoryPage:153 - obj.get(i+1)..28
+2018-07-08 13:07:43 INFO  ProductCategoryPage:152 - obj.get(i)..28
+2018-07-08 13:07:43 INFO  ProductCategoryPage:153 - obj.get(i+1)..30
+2018-07-08 13:07:44 INFO  ProductCategoryPage:152 - obj.get(i)..30
+2018-07-08 13:07:45 INFO  ProductCategoryPage:153 - obj.get(i+1)..50
+2018-07-08 13:07:47 INFO  TestBase:95 - **************verifyLowestFirstPriceListInProduct_deatilsPageFinished***************
+2018-07-09 16:07:24 INFO  TestBase:138 - Initialize Web driver: 1094523823
+2018-07-09 16:07:759 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 16:07:784 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2018-07-09 16:07:184 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2018-07-09 16:07:221 INFO  WaitHelper:146 - page is loaded
+2018-07-09 16:07:477 INFO  TestBase:77 - **************testLoginToApplicationStarted***************
+2018-07-09 16:07:535 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 16:07:358 INFO  TestBase:138 - Initialize Web driver: 1423983012
+2018-07-09 16:07:361 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 16:07:363 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2018-07-09 16:07:387 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2018-07-09 16:07:405 INFO  WaitHelper:146 - page is loaded
+2018-07-09 16:07:623 INFO  TestBase:77 - **************testRegistrationStarted***************
+2018-07-09 16:07:34 INFO  TestBase:138 - Initialize Web driver: 838812606
+2018-07-09 16:07:134 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 16:07:138 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2018-07-09 16:07:207 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2018-07-09 16:07:223 INFO  WaitHelper:146 - page is loaded
+2018-07-09 16:07:654 INFO  TestBase:77 - **************testRegistrationStarted***************
+2018-07-09 16:07:616 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 16:07:814 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (df07ac002537d58dada935897999126a)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2018-07-09 16:07:08 INFO  WaitHelper:159 - element is visible now
+2018-07-09 16:07:09 INFO  TestBase:172 - capturing ui navigation screen...
+2018-07-09 16:07:12 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-09 16:07:806 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-09 16:07:494 INFO  LoginPage:69 - clicked on sign in link...
+2018-07-09 16:07:372 INFO  LoginPage:102 - entering registration email..1531133355372@gmail.com
+2018-07-09 16:07:876 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 16:07:932 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (df07ac002537d58dada935897999126a)] -> xpath: //*[@id='id_gender1']] for :200 seconds
+2018-07-09 16:07:112 INFO  TestBase:138 - Initialize Web driver: 838812606
+2018-07-09 16:07:168 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 16:07:171 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2018-07-09 16:07:198 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2018-07-09 16:07:206 INFO  WaitHelper:146 - page is loaded
+2018-07-09 16:07:562 INFO  TestBase:77 - **************testRegistrationStarted***************
+2018-07-09 16:07:591 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 16:07:702 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (6fc6714e1a532cec4e1225e55dec55c6)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2018-07-09 16:07:869 INFO  WaitHelper:159 - element is visible now
+2018-07-09 16:07:870 INFO  TestBase:172 - capturing ui navigation screen...
+2018-07-09 16:07:873 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-09 16:07:506 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-09 16:07:643 INFO  LoginPage:69 - clicked on sign in link...
+2018-07-09 16:07:262 INFO  LoginPage:102 - entering registration email..1531133473262@gmail.com
+2018-07-09 16:07:129 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 16:07:931 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (6fc6714e1a532cec4e1225e55dec55c6)] -> xpath: //*[@id='id_gender1']] for :200 seconds
+2018-07-09 16:07:733 INFO  WaitHelper:159 - element is visible now
+2018-07-09 16:07:735 INFO  TestBase:172 - capturing ui navigation screen...
+2018-07-09 16:07:736 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-09 16:07:645 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-09 16:07:703 INFO  RegistrationPage:105 - selecting mr checkbox..
+2018-07-09 16:07:562 INFO  RegistrationPage:117 - entering firstName..firstName
+2018-07-09 16:07:709 INFO  RegistrationPage:123 - entering lastname..lastname
+2018-07-09 16:07:714 INFO  RegistrationPage:135 - entering password..password
+2018-07-09 16:07:628 INFO  RegistrationPage:203 - entering address..address
+2018-07-09 16:07:863 INFO  RegistrationPage:185 - entering yourAddressFirstName..yourAddressFirstName
+2018-07-09 16:07:499 INFO  RegistrationPage:191 - entering yourAddressLastName..yourAddressLastName
+2018-07-09 16:07:708 INFO  RegistrationPage:197 - entering yourAddressCompany..yourAddressCompany
+2018-07-09 16:07:222 INFO  RegistrationPage:215 - entering yourAddressCity..yourAddressCity
+2018-07-09 16:07:220 INFO  RegistrationPage:221 - entering yourAddressState..Alaska
+2018-07-09 16:07:807 INFO  RegistrationPage:227 - entering yourAddressPostCode..99501
+2018-07-09 16:07:917 INFO  RegistrationPage:245 - entering mobilePhone..9999999999
+2018-07-09 16:07:955 INFO  RegistrationPage:251 - entering addressAlias..addressAlias
+2018-07-09 16:07:43 INFO  RegistrationPage:257 - clicked on registration..[[ChromeDriver: chrome on XP (6fc6714e1a532cec4e1225e55dec55c6)] -> xpath: //*[@id='submitAccount']]
+2018-07-09 16:07:915 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 16:07:39 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (6fc6714e1a532cec4e1225e55dec55c6)] -> xpath: //*[contains(text(),'Order history and details')]] for :200 seconds
+2018-07-09 16:07:200 INFO  WaitHelper:159 - element is visible now
+2018-07-09 16:07:203 INFO  TestBase:172 - capturing ui navigation screen...
+2018-07-09 16:07:204 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-09 16:07:241 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-09 16:07:199 INFO  VerificationHelper:26 - element is Displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2018-07-09 16:07:380 INFO  TestBase:96 - **************testRegistrationFinished***************
+2018-07-09 16:07:881 INFO  TestBase:138 - Initialize Web driver: 1075803699
+2018-07-09 16:07:04 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 16:07:06 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2018-07-09 16:07:70 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2018-07-09 16:07:87 INFO  WaitHelper:146 - page is loaded
+2018-07-09 16:07:471 INFO  TestBase:77 - **************testLoginBStarted***************
+2018-07-09 16:07:192 INFO  TestBase:96 - **************testLoginBFinished***************
+2018-07-09 16:07:878 INFO  TestBase:138 - Initialize Web driver: 838812606
+2018-07-09 16:07:907 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 16:07:908 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2018-07-09 16:07:927 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2018-07-09 16:07:936 INFO  WaitHelper:146 - page is loaded
+2018-07-09 16:07:341 INFO  TestBase:77 - **************testLoginBStarted***************
+2018-07-09 16:07:238 INFO  TestBase:96 - **************testLoginBFinished***************
+2018-07-09 16:07:828 INFO  TestBase:138 - Initialize Web driver: 838812606
+2018-07-09 16:07:848 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 16:07:848 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2018-07-09 16:07:928 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2018-07-09 16:07:967 INFO  WaitHelper:146 - page is loaded
+2018-07-09 16:07:599 INFO  TestBase:77 - **************testRegistrationStarted***************
+2018-07-09 16:07:364 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 16:07:534 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (353aa4c18ca3c4591cfe7119830b4667)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] for :200 seconds
+2018-07-09 16:07:799 INFO  WaitHelper:159 - element is visible now
+2018-07-09 16:07:801 INFO  TestBase:172 - capturing ui navigation screen...
+2018-07-09 16:07:869 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-09 16:07:736 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-09 16:07:238 INFO  LoginPage:69 - clicked on sign in link...
+2018-07-09 16:07:912 INFO  LoginPage:102 - entering registration email..1531134809912@gmail.com
+2018-07-09 16:07:773 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 16:07:513 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (353aa4c18ca3c4591cfe7119830b4667)] -> xpath: //*[@id='id_gender1']] for :200 seconds
+2018-07-09 16:07:894 INFO  WaitHelper:159 - element is visible now
+2018-07-09 16:07:896 INFO  TestBase:172 - capturing ui navigation screen...
+2018-07-09 16:07:900 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-09 16:07:273 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-09 16:07:529 INFO  RegistrationPage:105 - selecting mr checkbox..
+2018-07-09 16:07:884 INFO  RegistrationPage:117 - entering firstName..firstName
+2018-07-09 16:07:978 INFO  RegistrationPage:123 - entering lastname..lastname
+2018-07-09 16:07:775 INFO  RegistrationPage:135 - entering password..password
+2018-07-09 16:07:484 INFO  RegistrationPage:203 - entering address..address
+2018-07-09 16:07:133 INFO  RegistrationPage:185 - entering yourAddressFirstName..yourAddressFirstName
+2018-07-09 16:07:668 INFO  RegistrationPage:191 - entering yourAddressLastName..yourAddressLastName
+2018-07-09 16:07:155 INFO  RegistrationPage:197 - entering yourAddressCompany..yourAddressCompany
+2018-07-09 16:07:149 INFO  RegistrationPage:215 - entering yourAddressCity..yourAddressCity
+2018-07-09 16:07:13 INFO  RegistrationPage:221 - entering yourAddressState..Alaska
+2018-07-09 16:07:622 INFO  RegistrationPage:227 - entering yourAddressPostCode..99501
+2018-07-09 16:07:442 INFO  RegistrationPage:245 - entering mobilePhone..9999999999
+2018-07-09 16:07:243 INFO  RegistrationPage:251 - entering addressAlias..addressAlias
+2018-07-09 16:07:122 INFO  RegistrationPage:257 - clicked on registration..[[ChromeDriver: chrome on XP (353aa4c18ca3c4591cfe7119830b4667)] -> xpath: //*[@id='submitAccount']]
+2018-07-09 16:07:391 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 16:07:560 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (353aa4c18ca3c4591cfe7119830b4667)] -> xpath: //*[contains(text(),'Order history and details')]] for :200 seconds
+2018-07-09 16:07:815 INFO  WaitHelper:159 - element is visible now
+2018-07-09 16:07:818 INFO  TestBase:172 - capturing ui navigation screen...
+2018-07-09 16:07:819 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-09 16:07:907 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-09 16:07:879 INFO  VerificationHelper:26 - element is Displayed..Welcome to your account. Here you can manage all of your personal information and orders.
+2018-07-09 16:07:257 INFO  TestBase:96 - **************testRegistrationFinished***************
+2018-07-09 16:07:294 INFO  TestBase:138 - Initialize Web driver: 222427158
+2018-07-09 16:07:307 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 16:07:308 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2018-07-09 16:07:336 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2018-07-09 16:07:346 INFO  WaitHelper:146 - page is loaded
+2018-07-09 16:07:725 INFO  TestBase:77 - **************testLoginAStarted***************
+2018-07-09 16:07:795 INFO  TestBase:96 - **************testLoginAFinished***************
+2018-07-09 16:07:326 INFO  TestBase:138 - Initialize Web driver: 1545077099
+2018-07-09 16:07:329 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 16:07:331 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2018-07-09 16:07:340 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2018-07-09 16:07:348 INFO  WaitHelper:146 - page is loaded
+2018-07-09 16:07:524 INFO  TestBase:77 - **************testLoginBStarted***************
+2018-07-09 16:07:545 INFO  Retry:21 - Retrying test testLoginB with status FAILURE for the 1 times.
+2018-07-09 16:07:657 INFO  TestBase:96 - **************testLoginBFinished***************
+2018-07-09 16:07:512 INFO  TestBase:77 - **************testLoginBStarted***************
+2018-07-09 16:07:526 INFO  Retry:21 - Retrying test testLoginB with status FAILURE for the 2 times.
+2018-07-09 16:07:541 INFO  TestBase:96 - **************testLoginBFinished***************
+2018-07-09 16:07:751 INFO  TestBase:77 - **************testLoginBStarted***************
+2018-07-09 16:07:775 INFO  TestBase:96 - **************testLoginBFinished***************
+2018-07-09 16:07:571 INFO  TestBase:138 - Initialize Web driver: 882471736
+2018-07-09 16:07:572 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 16:07:574 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2018-07-09 16:07:584 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2018-07-09 16:07:592 INFO  WaitHelper:146 - page is loaded
+2018-07-09 16:07:759 INFO  TestBase:77 - **************testLoginCStarted***************
+2018-07-09 16:07:768 INFO  Retry:21 - Retrying test testLoginC with status FAILURE for the 1 times.
+2018-07-09 16:07:795 INFO  TestBase:96 - **************testLoginCFinished***************
+2018-07-09 16:07:162 INFO  TestBase:77 - **************testLoginCStarted***************
+2018-07-09 16:07:182 INFO  Retry:21 - Retrying test testLoginC with status FAILURE for the 2 times.
+2018-07-09 16:07:210 INFO  TestBase:96 - **************testLoginCFinished***************
+2018-07-09 16:07:456 INFO  TestBase:77 - **************testLoginCStarted***************
+2018-07-09 16:07:471 INFO  Retry:21 - Retrying test testLoginC with status FAILURE for the 3 times.
+2018-07-09 16:07:486 INFO  TestBase:96 - **************testLoginCFinished***************
+2018-07-09 16:07:711 INFO  TestBase:77 - **************testLoginCStarted***************
+2018-07-09 16:07:298 INFO  TestBase:96 - **************testLoginCFinished***************
+2018-07-09 23:07:135 INFO  TestBase:138 - Initialize Web driver: 838812606
+2018-07-09 23:07:342 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 23:07:345 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2018-07-09 23:07:504 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2018-07-09 23:07:514 INFO  WaitHelper:146 - page is loaded
+2018-07-09 23:07:97 INFO  TestBase:77 - **************testVerifyColorFilterStarted***************
+2018-07-09 23:07:669 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 23:07:871 INFO  TestBase:138 - Initialize Web driver: 838812606
+2018-07-09 23:07:322 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 23:07:324 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2018-07-09 23:07:599 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2018-07-09 23:07:613 INFO  WaitHelper:146 - page is loaded
+2018-07-09 23:07:691 INFO  TestBase:77 - **************testVerifyColorFilterStarted***************
+2018-07-09 23:07:104 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 23:07:594 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (7e3b84b2627d517df2143219c7fb668b)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2018-07-09 23:07:722 INFO  WaitHelper:159 - element is visible now
+2018-07-09 23:07:725 INFO  TestBase:172 - capturing ui navigation screen...
+2018-07-09 23:07:179 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-09 23:07:699 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-09 23:07:329 INFO  NavigationMenu:61 - clickin on : WOMEN
+2018-07-09 23:07:23 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-09 23:07:226 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (7e3b84b2627d517df2143219c7fb668b)] -> xpath: //*[@id='layered_block_left']/p] for :200 seconds
+2018-07-09 23:07:449 INFO  WaitHelper:159 - element is visible now
+2018-07-09 23:07:457 INFO  TestBase:172 - capturing ui navigation screen...
+2018-07-09 23:07:459 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-09 23:07:598 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-09 23:07:701 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-09 23:07:51 INFO  JavaScriptHelper:70 - scroll till web element
+2018-07-09 23:07:224 INFO  TestBase:96 - **************testVerifyColorFilterFinished***************
+2018-07-10 00:07:180 INFO  TestBase:130 - unknown error: unable to discover open pages
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 99.72 seconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'COMPUTER', ip: '192.168.108.2', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: driver.version: ChromeDriver
+2018-07-10 00:07:906 INFO  TestBase:138 - Initialize Web driver: 838812606
+2018-07-10 00:07:832 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-10 00:07:833 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2018-07-10 00:07:31 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2018-07-10 00:07:45 INFO  WaitHelper:146 - page is loaded
+2018-07-10 00:07:847 INFO  TestBase:77 - **************testVerifyColorFilterStarted***************
+2018-07-10 00:07:485 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-10 00:07:769 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (5fb5a36af449dd9671ae4fe29e9a694c)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2018-07-10 00:07:358 INFO  WaitHelper:159 - element is visible now
+2018-07-10 00:07:359 INFO  TestBase:172 - capturing ui navigation screen...
+2018-07-10 00:07:423 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-10 00:07:111 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-10 00:07:407 INFO  NavigationMenu:61 - clickin on : WOMEN
+2018-07-10 00:07:469 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-10 00:07:87 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (5fb5a36af449dd9671ae4fe29e9a694c)] -> xpath: //*[@id='layered_block_left']/p] for :200 seconds
+2018-07-10 00:07:148 INFO  WaitHelper:159 - element is visible now
+2018-07-10 00:07:154 INFO  TestBase:172 - capturing ui navigation screen...
+2018-07-10 00:07:156 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-10 00:07:882 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-10 00:07:549 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-10 00:07:773 INFO  JavaScriptHelper:70 - scroll till web element
+2018-07-10 00:07:268 INFO  ProductCategoryPage:89 - Clicked on the item Orange
+2018-07-10 00:07:430 INFO  TestBase:96 - **************testVerifyColorFilterFinished***************
+2018-07-10 00:07:722 INFO  TestBase:138 - Initialize Web driver: 838812606
+2018-07-10 00:07:981 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-10 00:07:984 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2018-07-10 00:07:19 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2018-07-10 00:07:28 INFO  WaitHelper:146 - page is loaded
+2018-07-10 00:07:791 INFO  TestBase:77 - **************testVerifyColorFilterStarted***************
+2018-07-10 00:07:15 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-10 00:07:630 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (d7b3afd5113cce1ae0f84147c4b56e71)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2018-07-10 00:07:678 INFO  WaitHelper:159 - element is visible now
+2018-07-10 00:07:680 INFO  TestBase:172 - capturing ui navigation screen...
+2018-07-10 00:07:684 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-10 00:07:271 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-10 00:07:442 INFO  NavigationMenu:61 - clickin on : WOMEN
+2018-07-10 00:07:845 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-10 00:07:127 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (d7b3afd5113cce1ae0f84147c4b56e71)] -> xpath: //*[@id='layered_block_left']/p] for :200 seconds
+2018-07-10 00:07:344 INFO  WaitHelper:159 - element is visible now
+2018-07-10 00:07:356 INFO  TestBase:172 - capturing ui navigation screen...
+2018-07-10 00:07:358 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-10 00:07:852 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-10 00:07:215 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-10 00:07:671 INFO  JavaScriptHelper:70 - scroll till web element
+2018-07-10 00:07:320 INFO  ProductCategoryPage:89 - Clicked on the item Orange
+2018-07-10 00:07:659 INFO  TestBase:96 - **************testVerifyColorFilterFinished***************
+2018-07-10 00:07:69 INFO  TestBase:138 - Initialize Web driver: 838812606
+2018-07-10 00:07:877 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-10 00:07:889 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2018-07-10 00:07:618 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2018-07-10 00:07:626 INFO  WaitHelper:146 - page is loaded
+2018-07-10 00:07:269 INFO  TestBase:77 - **************testVerifyColorFilterStarted***************
+2018-07-10 00:07:762 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-10 00:07:611 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (820d95babb362fc2cb4dd0673a32e357)] -> xpath: //*[@id='block_top_menu']/ul/li[1]/a] for :200 seconds
+2018-07-10 00:07:940 INFO  WaitHelper:159 - element is visible now
+2018-07-10 00:07:943 INFO  TestBase:172 - capturing ui navigation screen...
+2018-07-10 00:07:62 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-10 00:07:287 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-10 00:07:988 INFO  NavigationMenu:61 - clickin on : WOMEN
+2018-07-10 00:07:548 INFO  WaitHelper:31 - WaitHelper object created..
+2018-07-10 00:07:727 INFO  WaitHelper:156 - waiting for :[[ChromeDriver: chrome on XP (820d95babb362fc2cb4dd0673a32e357)] -> xpath: //*[@id='layered_block_left']/p] for :200 seconds
+2018-07-10 00:07:910 INFO  WaitHelper:159 - element is visible now
+2018-07-10 00:07:916 INFO  TestBase:172 - capturing ui navigation screen...
+2018-07-10 00:07:917 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-10 00:07:721 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-10 00:07:360 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2018-07-10 00:07:660 INFO  JavaScriptHelper:70 - scroll till web element
+2018-07-10 00:07:688 INFO  ProductCategoryPage:89 - Clicked on the item Yellow
+2018-07-10 00:07:416 INFO  TestBase:96 - **************testVerifyColorFilterFinished***************
